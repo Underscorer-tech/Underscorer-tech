@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Underscorer-tech
 - 👀 I’m interested in JS HTML AND THREE.JS
 - 🌱 I’m currently learning JS  
-- 💞️ I’m looking to collaborate on MAKING WEBSITiES
+- 💞️ I’m looking to collaborate on MAKING WEBSITES
 - 📫 YOU CAN REACH ME ON adityaveerkatoch@gmail.com
 
 <!---
